@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = "6233b2b89d3db2343fe684edd439aabe"
+API_KEY = "Your Api Key"
 CITY = "Belgrade"
 URL = f"http://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric"
 
